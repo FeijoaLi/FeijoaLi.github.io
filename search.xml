@@ -13,9 +13,7 @@
       
       <categories>
           
-          <category> 算法题解 </category>
-          
-          <category> Codeforces Div 2 </category>
+          <category> 题解 </category>
           
       </categories>
       
@@ -25,6 +23,8 @@
             <tag> Codeforces </tag>
             
             <tag> 算法竞赛 </tag>
+            
+            <tag> Codeforces (Div. 2) </tag>
             
         </tags>
       
