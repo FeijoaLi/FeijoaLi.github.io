@@ -6,7 +6,7 @@
   <link href="https://feijoali.github.io/atom.xml" rel="self"/>
   
   <link href="https://feijoali.github.io/"/>
-  <updated>2025-08-01T20:13:14.461Z</updated>
+  <updated>2025-08-01T20:20:44.156Z</updated>
   <id>https://feijoali.github.io/</id>
   
   <author>
@@ -21,18 +21,20 @@
     <link href="https://feijoali.github.io/posts/216fec9f.html"/>
     <id>https://feijoali.github.io/posts/216fec9f.html</id>
     <published>2025-08-01T19:56:01.000Z</published>
-    <updated>2025-08-01T20:13:14.461Z</updated>
+    <updated>2025-08-01T20:20:44.156Z</updated>
     
     
     <summary type="html">Codeforces Round 1040 (Div. 2) 题解</summary>
     
     
     
-    <category term="算法题解" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/"/>
+    <category term="算法" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
-    <category term="Codeforces Div 2" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/Codeforces-Div-2/"/>
+    <category term="算法题解" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/"/>
     
-    <category term="Codeforces" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/Codeforces-Div-2/Codeforces/"/>
+    <category term="Codeforces Div 2" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/Codeforces-Div-2/"/>
+    
+    <category term="Codeforces" scheme="https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/Codeforces-Div-2/Codeforces/"/>
     
     
     <category term="Codeforces" scheme="https://feijoali.github.io/tags/Codeforces/"/>
