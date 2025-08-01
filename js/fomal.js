@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://github.com/FeijoaLi/my-images/blob/main/132405531_p0.png?raw=true);
-    --darkmode-bg:url(https://github.com/FeijoaLi/my-images/blob/main/132405531_p0.png?raw=true);
-    --mobileday-bg: url(https://github.com/FeijoaLi/my-images/blob/main/132405531_p0.png?raw=true);
-    --mobilenight-bg: url(https://github.com/FeijoaLi/my-images/blob/main/132405531_p0.png?raw=true);
+    --default-bg: url(/assets/background_pic.png);
+    --darkmode-bg: url(/assets/background_pic.png);
+    --mobileday-bg: url(/assets/background_pic.png);
+    --mobilenight-bg: url(/assets/background_pic.png);
   }`;
 }
 // 切换背景主函数
