@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feijoali.github.io/posts/3c810de3.html</loc>
+    
+    <lastmod>2025-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://feijoali.github.io/posts/216fec9f.html</loc>
+    
+    <lastmod>2025-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://feijoali.github.io/posts/20c47d09.html</loc>
     
     <lastmod>2025-08-14</lastmod>
@@ -48,15 +66,6 @@
   
   <url>
     <loc>https://feijoali.github.io/posts/973716ad.html</loc>
-    
-    <lastmod>2025-08-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://feijoali.github.io/posts/216fec9f.html</loc>
     
     <lastmod>2025-08-04</lastmod>
     
@@ -310,6 +319,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://feijoali.github.io/tags/Codeforces-Div-3/</loc>
+    <lastmod>2025-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -328,13 +344,6 @@
   
   <url>
     <loc>https://feijoali.github.io/categories/%E9%A2%98%E8%A7%A3/Codeforces/</loc>
-    <lastmod>2025-08-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://feijoali.github.io/categories/%E9%A2%98%E8%A7%A3/Codeforces/div2/</loc>
     <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -363,6 +372,20 @@
   
   <url>
     <loc>https://feijoali.github.io/categories/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://feijoali.github.io/categories/%E9%A2%98%E8%A7%A3/Codeforces/Div-2/</loc>
+    <lastmod>2025-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://feijoali.github.io/categories/%E9%A2%98%E8%A7%A3/Codeforces/Div-3/</loc>
     <lastmod>2025-08-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
